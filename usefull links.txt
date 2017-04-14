@@ -1,3 +1,4 @@
 http://www.shodor.org/
 http://statpages.info/pdfs.html   -statistics calculators
+http://www.danielsoper.com/statcalc/default.aspx  -statistics calc
 
