@@ -1,4 +1,9 @@
 http://www.shodor.org/
 http://statpages.info/pdfs.html   -statistics calculators
-http://www.danielsoper.com/statcalc/default.aspx  -statistics calc
 
+http://www.shodor.org/interactivate/activities/BoxPlot/   -play with boxplot
+
+
+http://www.danielsoper.com/statcalc/calculator.aspx?id=8    t value to propability
+
+http://people.revoledu.com  do experiments with distance funtions
