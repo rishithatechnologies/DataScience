@@ -47,3 +47,9 @@ Generative vs. discriminative models: https://stats.stackexchange.com/questions/
 RNN vs. CNN (at high level): https://datascience.stackexchange.com/questions/11619/rnn-vs-cnn-at-a-high-level
 
 Word2vec vs. GloVe (word embeddings): https://www.quora.com/How-is-GloVe-different-from-word2vec
+
+
+
+
+highest voted questions:
+https://stackoverflow.com/questions/tagged/machine-learning?sort=votes&pageSize=15&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BUx4RqSS7S8m9S%2F15%2FFM5Ig%3D%3D
