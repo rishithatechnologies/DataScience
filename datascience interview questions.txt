@@ -1,11 +1,3 @@
-- Machine learning: https://lnkd.in/e4ij_is
-- Natural language processing: https://lnkd.in/etbXrqv
-- Bayesian statistics: https://lnkd.in/eprtxDg
-- Time series: https://lnkd.in/euKHC6X
-- Neural networks: https://lnkd.in/dpYHQTi
-- Long Short-Term Memory (LSTM): https://lnkd.in/eYp532G
-- Interview questions: https://lnkd.in/dSfgZDs
-- Comparing ML models: https://lnkd.in/et6aNJv
 
 
 https://rpubs.com/JDAHAN/172473?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BEuguVtyzQAmUzJlSE1icaA%3D%3D
@@ -30,8 +22,7 @@ L1 and L2 regularization: https://www.quora.com/What-is-the-difference-between-L
 
 LR vs NB: https://www.quora.com/What-is-the-difference-between-logistic-regression-and-Naive-Bayes
 
-top courses
-https://blog.coursera.org/year-review-10-popular-courses-2017/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B0oj27aXYT5mNPpNIw1C5Lw%3D%3D
+
 LR vs SVM: https://stats.stackexchange.com/questions/95340/comparing-svm-and-logistic-regression
 
 SVM, dual vs primal: https://www.quora.com/Why-is-solving-in-the-dual-easier-than-solving-in-the-primal-What-advantages-do-we-get-from-solving-in-the-dual 
@@ -55,3 +46,16 @@ Word2vec vs. GloVe (word embeddings): https://www.quora.com/How-is-GloVe-differe
 
 highest voted questions:
 https://stackoverflow.com/questions/tagged/machine-learning?sort=votes&pageSize=15&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BUx4RqSS7S8m9S%2F15%2FFM5Ig%3D%3D
+
+- Machine learning: https://lnkd.in/e4ij_is
+- Natural language processing: https://lnkd.in/etbXrqv
+- Bayesian statistics: https://lnkd.in/eprtxDg
+- Time series: https://lnkd.in/euKHC6X
+- Neural networks: https://lnkd.in/dpYHQTi
+- Long Short-Term Memory (LSTM): https://lnkd.in/eYp532G
+- Interview questions: https://lnkd.in/dSfgZDs
+- Comparing ML models: https://lnkd.in/et6aNJv
+
+
+top courses
+https://blog.coursera.org/year-review-10-popular-courses-2017/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B0oj27aXYT5mNPpNIw1C5Lw%3D%3D
