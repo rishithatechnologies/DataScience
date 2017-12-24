@@ -30,6 +30,8 @@ L1 and L2 regularization: https://www.quora.com/What-is-the-difference-between-L
 
 LR vs NB: https://www.quora.com/What-is-the-difference-between-logistic-regression-and-Naive-Bayes
 
+top courses
+https://blog.coursera.org/year-review-10-popular-courses-2017/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B0oj27aXYT5mNPpNIw1C5Lw%3D%3D
 LR vs SVM: https://stats.stackexchange.com/questions/95340/comparing-svm-and-logistic-regression
 
 SVM, dual vs primal: https://www.quora.com/Why-is-solving-in-the-dual-easier-than-solving-in-the-primal-What-advantages-do-we-get-from-solving-in-the-dual 
