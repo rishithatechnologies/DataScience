@@ -47,14 +47,7 @@ Word2vec vs. GloVe (word embeddings): https://www.quora.com/How-is-GloVe-differe
 highest voted questions:
 https://stackoverflow.com/questions/tagged/machine-learning?sort=votes&pageSize=15&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BUx4RqSS7S8m9S%2F15%2FFM5Ig%3D%3D
 
-- Machine learning: https://lnkd.in/e4ij_is
-- Natural language processing: https://lnkd.in/etbXrqv
-- Bayesian statistics: https://lnkd.in/eprtxDg
-- Time series: https://lnkd.in/euKHC6X
-- Neural networks: https://lnkd.in/dpYHQTi
-- Long Short-Term Memory (LSTM): https://lnkd.in/eYp532G
-- Interview questions: https://lnkd.in/dSfgZDs
-- Comparing ML models: https://lnkd.in/et6aNJv
+
 
 
 top courses
