@@ -7,3 +7,8 @@ http://www.shodor.org/interactivate/activities/BoxPlot/   -play with boxplot
 http://www.danielsoper.com/statcalc/calculator.aspx?id=8    t value to propability
 
 http://people.revoledu.com  do experiments with distance funtions
+
+
+
+Deeplearning libraries sorted on popularity:
+https://blog.thedataincubator.com/2017/10/ranking-popular-deep-learning-libraries-for-data-science/?utm_content=buffer32493&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer
